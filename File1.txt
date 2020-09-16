@@ -13,6 +13,8 @@ Change 5: -> Changes made by teammate to fix bug2
 
 Change 6: -> by team mate for WI5 to test rebase merging without conflict
 
+Change 7: -> File is modified
+
 
 
 
