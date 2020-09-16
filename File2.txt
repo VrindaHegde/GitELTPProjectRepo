@@ -1,5 +1,9 @@
 To work on CR1-on payment gateway
 
-Change -> to check push
-Change -> to test pull made by team mate
-Change -> to test rebase with conflict local master and remote master, this change is made by team mate for WI7.
+
+Change 1:-> to check push
+Change 2:-> to test pull made by team mate
+Change 3:-> to test rebase with conflict local master and remote master, this change is made by team mate for WI7.
+
+
+
